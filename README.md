@@ -11,3 +11,8 @@ Clearer UI and layout
 Enable a response interface
   - receive confirmations from students
   - add reply field for further communication
+
+CREDITS:
+All node and layout build from mschwarzmueller's tutorials + twilio basic sms examples
+https://github.com/mschwarzmueller/nodejs-basics-tutorial
+https://www.twilio.com/docs/quickstart/node/programmable-sms
