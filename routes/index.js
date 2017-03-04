@@ -5,8 +5,8 @@ mongoose.connect('localhost:27017/test');
 var Schema = mongoose.Schema;
 
 // twilio
-var accountSid = 'AC92e3e8130e57849cdcbe4179eaec0d5b';
-var authToken = 'b55eef88acf6c5f2443f39dc2314711d';
+var accountSid = ''//auth;
+var authToken = ''//auth;
 
 //require the Twilio module and create a REST client
 var client = require('twilio')(accountSid, authToken);
